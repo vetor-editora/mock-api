@@ -1,7 +1,9 @@
 {
-  "create": {
-    "tests_binding_id": 654,
-    "status": "not_finished",
-    "answers": {}
-  }
+  "create": [
+    {
+      "tests_binding_id": 654,
+      "status": "not_finished",
+      "answers": {}
+    }
+  ]
 }
